@@ -55,5 +55,5 @@ The primary objective of this project was to **scrape live and historical popula
 ## 📬 Let’s Connect
 
 📧 Email: osarohekhoragbon@gmail.com  
-💼 LinkedIn: [linkedin.com/in/osarohekhoragbon](https://www.linkedin.com/in/osarohekhoragbon)  
+💼 LinkedIn: [https://www.linkedin.com/in/osaroh-ekhoragbon/](https://www.linkedin.com/in/osaroh-ekhoragbon/)  
 🌐 GitHub: [github.com/OsarohEkhoragbon](https://github.com/OsarohEkhoragbon)
